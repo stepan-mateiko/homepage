@@ -223,6 +223,7 @@ body {
 
 .additional-info {
   flex: 1 1 40%;
+  justify-content: flex-start;
 }
 
 .additional-info__education {
